@@ -12,7 +12,7 @@
 * John Huelsenbeck
 * Brian Moore
 
-## Workshop Schedule
+## Workshop Topics & Schedule
 
 For the detailed schedule, please see [url]
 
