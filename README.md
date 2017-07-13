@@ -14,7 +14,7 @@
 
 ## Workshop Preparation
 
-To prepare for the workshop, please see detailed information: [url]
+To prepare for the workshop, please see detailed information: [https://revbayes.github.io/RevBayes-NIMBioS-Workshop/workshop-prep](https://revbayes.github.io/RevBayes-NIMBioS-Workshop/workshop-prep)
 
 ## Workshop Topics & Schedule
 
