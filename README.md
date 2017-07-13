@@ -12,6 +12,10 @@
 * John Huelsenbeck
 * Brian Moore
 
+## Workshop Preparation
+
+To prepare for the workshop, please see detailed information: [url]
+
 ## Workshop Topics & Schedule
 
 For the detailed schedule, please see [url]
