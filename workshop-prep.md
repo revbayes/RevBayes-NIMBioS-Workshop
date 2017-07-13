@@ -6,7 +6,7 @@ RevBayes performs statistical phylogenetic analysis. For this workshop, you need
 
 [Bayes Rule](https://arbital.com/p/bayes_rule/?l=1zq)
 
-## Using the shell
+## Using the Shell
 
 RevBayes is started from the command line. Try using the command prompt and familiarize yourself with the following commands:
 
@@ -18,7 +18,7 @@ RevBayes is started from the command line. Try using the command prompt and fami
 Try this simple Unix tutorial if you need more guidance: [http://matt.might.net/articles/basic-unix/](http://matt.might.net/articles/basic-unix/)
 
 
-## Using R for statistics:
+## Using R for Statistics
 
 RevBayes is designed to be very similar to R. Additionally, some of the visualization of the output from RevBayes will be displayed using R. Hence, some brief familiarity with R is required.
 
