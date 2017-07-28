@@ -22,7 +22,7 @@ To prepare for the workshop, please see detailed information: [https://revbayes.
 
 ## Workshop Topics & Schedule
 
-[Detailed Schedule](https://docs.google.com/spreadsheets/d/1zFW6yIMoHWa6_XHvesCLTyUDE3NuSoqb_ou80a9sA1g/edit#gid=0)
+### Detailed schedule timeline: [link](https://docs.google.com/spreadsheets/d/1zFW6yIMoHWa6_XHvesCLTyUDE3NuSoqb_ou80a9sA1g/edit#gid=0)
 
 ### Monday, 7 August - Höhna & Hülsenbeck
 
