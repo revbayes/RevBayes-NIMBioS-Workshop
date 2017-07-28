@@ -20,9 +20,11 @@ There is still room for a few more participants! If you're interested in attendi
 
 To prepare for the workshop, please see detailed information: [https://revbayes.github.io/RevBayes-NIMBioS-Workshop/workshop-prep](https://revbayes.github.io/RevBayes-NIMBioS-Workshop/workshop-prep)
 
-## Workshop Topics & Schedule
+## Workshop Schedule
 
 ### Detailed schedule timeline: [link](https://docs.google.com/spreadsheets/d/1zFW6yIMoHWa6_XHvesCLTyUDE3NuSoqb_ou80a9sA1g/edit#gid=0)
+
+## Workshop Topics
 
 ### Monday, 7 August - Höhna & Hülsenbeck
 
