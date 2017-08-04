@@ -47,11 +47,11 @@ To prepare for the workshop, please see detailed information: [https://revbayes.
 
 ### Thursday, 10 August - Höhna & Goldberg
 
-* Estimating Diversification Rates Trough-Time
+* Estimating Diversification Rates Through-Time
 * Lineage-specific diversification rates
 * State-dependent diversification rates
+* Biogeography
 
 ### Friday, 11 August - Höhna & Boussau
 
-* Biogeography
 * Gene-tree/species-tree estimation
