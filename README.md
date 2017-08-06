@@ -14,7 +14,7 @@ There is still room for a few more participants! If you're interested in attendi
 * Emma Goldberg
 * Tracy Heath
 * John Huelsenbeck
-* Brian Moore
+* Will Freyman
 
 ## Workshop Preparation
 
