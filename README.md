@@ -33,7 +33,7 @@ To prepare for the workshop, please see detailed information: [https://revbayes.
 * Introduction to RevBayes
 * Models of Molecular Evolution
 
-### Tuesday, 8 August - Höhna, Hülsenbeck, & Moore
+### Tuesday, 8 August - Höhna & Hülsenbeck
 
 * Partition Models and Model Selection
 * Model Fit
