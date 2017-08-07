@@ -33,6 +33,17 @@ To prepare for the workshop, please see detailed information: [https://revbayes.
 * Introduction to RevBayes
 * Models of Molecular Evolution
 
+Practical: Introduction to RevBayes
+
+* [Tutorial PDF](https://github.com/revbayes/revbayes_tutorial/raw/master/tutorial_TeX/RB_MCMC_Intro_Tutorial/RB_MCMC_Intro_Tutorial.pdf)
+
+Practical: Models of Molecular Evolution
+
+* [Tutorial PDF](https://github.com/revbayes/revbayes_tutorial/raw/master/tutorial_TeX/RB_CTMC_Tutorial/RB_CTMC_Tutorial.pdf)
+* [Primates data](https://raw.githubusercontent.com/revbayes/revbayes_tutorial/master/RB_CTMC_Tutorial/data/primates_and_galeopterus_cytb.nex)
+* [JC Rev script](https://raw.githubusercontent.com/revbayes/revbayes_tutorial/master/RB_CTMC_Tutorial/scripts/mcmc_JC.Rev)
+* [GTR+I+G Rev script](http://rawgit.com/revbayes/revbayes_tutorial/master/RB_CTMC_Tutorial/scripts/mcmc_GTR_Gamma_Inv.Rev)
+
 ### Tuesday, 8 August - Höhna, Hülsenbeck, & Moore
 
 * Partition Models and Model Selection
