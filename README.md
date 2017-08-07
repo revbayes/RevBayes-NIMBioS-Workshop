@@ -44,11 +44,23 @@ To prepare for the workshop, please see detailed information: [https://revbayes.
 * [JC Rev script](https://raw.githubusercontent.com/revbayes/revbayes_tutorial/master/RB_CTMC_Tutorial/scripts/mcmc_JC.Rev)
 * [GTR+I+G Rev script](http://rawgit.com/revbayes/revbayes_tutorial/master/RB_CTMC_Tutorial/scripts/mcmc_GTR_Gamma_Inv.Rev)
 
-### Tuesday, 8 August - Höhna & Hülsenbeck
+### Tuesday, 8 August - Höhna, Hülsenbeck, & Freyman
 
 * Partition Models and Model Selection
 * Model Fit
 * MCMC Diagnostics & Convergence
+
+*Practical: Partition Models and Model Selection*
+
+* [Tutorial PDF](https://github.com/revbayes/revbayes_tutorial/raw/master/tutorial_TeX/RB_Partition_Tutorial/RB_Partition_Tutorial.pdf)
+* [Data files](https://github.com/revbayes/revbayes_tutorial/tree/master/RB_Partition_Tutorial/data)
+* [Rev scripts](https://github.com/revbayes/revbayes_tutorial/tree/master/RB_Partition_Tutorial/scripts)
+
+*Practical: Model Fit*
+
+* [Tutorial PDF](https://github.com/revbayes/revbayes_tutorial/raw/master/tutorial_TeX/RB_BayesFactor_Tutorial/RB_BayesFactor_Tutorial.pdf)
+* [Data file](http://rawgit.com/revbayes/revbayes_tutorial/master/RB_BayesFactor_Tutorial/data/primates_and_galeopterus_cytb.nex)
+* [Rev script](http://rawgit.com/revbayes/revbayes_tutorial/master/RB_BayesFactor_Tutorial/scripts/marginal_likelihood_JC.Rev) 
 
 ### Wednesday, 9 August - Höhna & Heath
 
