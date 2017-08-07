@@ -94,8 +94,7 @@ To prepare for the workshop, please see detailed information: [https://revbayes.
 * Tutorial PDF: [RB_Biogeography_Tutorial](https://github.com/revbayes/revbayes_tutorial/raw/master/tutorial_TeX/RB_Biogeography_Tutorial/RB_Biogeography_Tutorial.pdf)
 * [Data files](http://rawgit.com/revbayes/revbayes_tutorial/master/RB_Biogeography_Tutorial/data.zip)
 * [Rev scripts](http://rawgit.com/revbayes/revbayes_tutorial/master/RB_Biogeography_Tutorial/scripts.zip)
-
-Also, the second part of the Practical uses the Character state-dependent diversification materials above.
+* Also, the second part of the Biogeography Practical uses the Character state-dependent diversification materials above.
 
 ### Friday, 11 August - Höhna & Boussau
 
