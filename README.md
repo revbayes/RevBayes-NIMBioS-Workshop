@@ -28,6 +28,8 @@ To prepare for the workshop, please see detailed information: [https://revbayes.
 
 ### Monday, 7 August - Höhna & Hülsenbeck
 
+*Topics*
+
 * Introduction/Overview
 * Probability, Bayesian Statistics, MCMC
 * Introduction to RevBayes
@@ -35,16 +37,18 @@ To prepare for the workshop, please see detailed information: [https://revbayes.
 
 *Practical: Introduction to RevBayes*
 
-* [Tutorial PDF](https://github.com/revbayes/revbayes_tutorial/raw/master/tutorial_TeX/RB_MCMC_Intro_Tutorial/RB_MCMC_Intro_Tutorial.pdf)
+* Tutorial PDF: [`RB_MCMC_Intro_Tutorial.pdf`](https://github.com/revbayes/revbayes_tutorial/raw/master/tutorial_TeX/RB_MCMC_Intro_Tutorial/RB_MCMC_Intro_Tutorial.pdf)
 
 *Practical: Models of Molecular Evolution*
 
-* [Tutorial PDF](https://github.com/revbayes/revbayes_tutorial/raw/master/tutorial_TeX/RB_CTMC_Tutorial/RB_CTMC_Tutorial.pdf)
+* Tutorial PDF: [`RB_CTMC_Tutorial.pdf`](https://github.com/revbayes/revbayes_tutorial/raw/master/tutorial_TeX/RB_CTMC_Tutorial/RB_CTMC_Tutorial.pdf)
 * [Primates data](https://raw.githubusercontent.com/revbayes/revbayes_tutorial/master/RB_CTMC_Tutorial/data/primates_and_galeopterus_cytb.nex)
 * [JC Rev script](https://raw.githubusercontent.com/revbayes/revbayes_tutorial/master/RB_CTMC_Tutorial/scripts/mcmc_JC.Rev)
 * [GTR+I+G Rev script](http://rawgit.com/revbayes/revbayes_tutorial/master/RB_CTMC_Tutorial/scripts/mcmc_GTR_Gamma_Inv.Rev)
 
 ### Tuesday, 8 August - Höhna, Hülsenbeck, & Freyman
+
+*Topics*
 
 * Partition Models and Model Selection
 * Model Fit
@@ -52,21 +56,29 @@ To prepare for the workshop, please see detailed information: [https://revbayes.
 
 *Practical: Partition Models and Model Selection*
 
-* [Tutorial PDF](https://github.com/revbayes/revbayes_tutorial/raw/master/tutorial_TeX/RB_Partition_Tutorial/RB_Partition_Tutorial.pdf)
+* Tutorial PDF: [`RB_Partition_Tutorial.pdf `](https://github.com/revbayes/revbayes_tutorial/raw/master/tutorial_TeX/RB_Partition_Tutorial/RB_Partition_Tutorial.pdf)
 * [Data files](https://github.com/revbayes/revbayes_tutorial/tree/master/RB_Partition_Tutorial/data)
 * [Rev scripts](https://github.com/revbayes/revbayes_tutorial/tree/master/RB_Partition_Tutorial/scripts)
 
 *Practical: Model Fit*
 
-* [Tutorial PDF](https://github.com/revbayes/revbayes_tutorial/raw/master/tutorial_TeX/RB_BayesFactor_Tutorial/RB_BayesFactor_Tutorial.pdf)
+* Tutorial PDF: [`RB_BayesFactor_Tutorial.pdf `](https://github.com/revbayes/revbayes_tutorial/raw/master/tutorial_TeX/RB_BayesFactor_Tutorial/RB_BayesFactor_Tutorial.pdf)
 * [Data file](http://rawgit.com/revbayes/revbayes_tutorial/master/RB_BayesFactor_Tutorial/data/primates_and_galeopterus_cytb.nex)
-* [Rev script](http://rawgit.com/revbayes/revbayes_tutorial/master/RB_BayesFactor_Tutorial/scripts/marginal_likelihood_JC.Rev) 
+* [Rev script](http://rawgit.com/revbayes/revbayes_tutorial/master/RB_BayesFactor_Tutorial/scripts/marginal_likelihood_JC.Rev)
+
+*Practical: MCMC & Convergence*
+
+* Tutorial PDF: [`RB_MCMC_Tutorial.pdf`](https://github.com/revbayes/revbayes_tutorial/raw/master/tutorial_TeX/RB_MCMC_Tutorial/RB_MCMC_Tutorial.pdf) 
 
 ### Wednesday, 9 August - Höhna & Heath
+
+*Topics*
 
 * Clock Models
 * Node Calibration
 * Total Evidence Analysis
+
+
 
 ### Thursday, 10 August - Höhna & Goldberg
 
