@@ -74,14 +74,28 @@ To prepare for the workshop, please see detailed information: [https://revbayes.
 * Node Calibration
 * Total Evidence Analysis
 
-
-
 ### Thursday, 10 August - Höhna & Goldberg
+
+*Topics*
 
 * Estimating Diversification Rates Through-Time
 * Lineage-specific diversification rates
-* State-dependent diversification rates
+* Character state-dependent diversification rates
 * Biogeography
+
+*Practical: Character state-dependent diversification*
+
+* Tutorial PDF: [RB_DiversificationRate_CharacterDependent_Tutorial.pdf](https://github.com/revbayes/revbayes_tutorial/raw/master/tutorial_TeX/RB_DiversificationRate_CharacterDependent_Tutorial/RB_DiversificationRate_CharacterDependent_Tutorial.pdf)
+* [Data files](http://rawgit.com/revbayes/revbayes_tutorial/master/RB_DiversificationRate_CharacterDependent_Tutorial/data.zip)
+* [Rev scripts](http://rawgit.com/revbayes/revbayes_tutorial/master/RB_DiversificationRate_CharacterDependent_Tutorial/scripts.zip)
+
+*Practical: Biogeography*
+
+* Tutorial PDF: [RB_Biogeography_Tutorial](https://github.com/revbayes/revbayes_tutorial/raw/master/tutorial_TeX/RB_Biogeography_Tutorial/RB_Biogeography_Tutorial.pdf)
+* [Data files](http://rawgit.com/revbayes/revbayes_tutorial/master/RB_Biogeography_Tutorial/data.zip)
+* [Rev scripts](http://rawgit.com/revbayes/revbayes_tutorial/master/RB_Biogeography_Tutorial/scripts.zip)
+
+Also, the second part of the Practical uses the Character state-dependent diversification materials above.
 
 ### Friday, 11 August - Höhna & Boussau
 
