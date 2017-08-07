@@ -3,10 +3,6 @@
 ### [Workshop at NIMBioS](http://www.nimbios.org/tutorials/revbayes.html) - Knoxville, TN USA
 ### August 7-11, 2017
 
-## Join the Course!
-
-There is still room for a few more participants! If you're interested in attending, please go to: [http://www.nimbios.org/tutorials/revbayes.html](http://www.nimbios.org/tutorials/revbayes.html)
-
 ## Instructors
 
 * Sebastian Höhna (lead organizer)
