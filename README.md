@@ -14,7 +14,7 @@ There is still room for a few more participants! If you're interested in attendi
 * Emma Goldberg
 * Tracy Heath
 * John Huelsenbeck
-* Brian Moore
+* Will Freyman
 
 ## Workshop Preparation
 
@@ -33,18 +33,18 @@ To prepare for the workshop, please see detailed information: [https://revbayes.
 * Introduction to RevBayes
 * Models of Molecular Evolution
 
-Practical: Introduction to RevBayes
+*Practical: Introduction to RevBayes*
 
 * [Tutorial PDF](https://github.com/revbayes/revbayes_tutorial/raw/master/tutorial_TeX/RB_MCMC_Intro_Tutorial/RB_MCMC_Intro_Tutorial.pdf)
 
-Practical: Models of Molecular Evolution
+*Practical: Models of Molecular Evolution*
 
 * [Tutorial PDF](https://github.com/revbayes/revbayes_tutorial/raw/master/tutorial_TeX/RB_CTMC_Tutorial/RB_CTMC_Tutorial.pdf)
 * [Primates data](https://raw.githubusercontent.com/revbayes/revbayes_tutorial/master/RB_CTMC_Tutorial/data/primates_and_galeopterus_cytb.nex)
 * [JC Rev script](https://raw.githubusercontent.com/revbayes/revbayes_tutorial/master/RB_CTMC_Tutorial/scripts/mcmc_JC.Rev)
 * [GTR+I+G Rev script](http://rawgit.com/revbayes/revbayes_tutorial/master/RB_CTMC_Tutorial/scripts/mcmc_GTR_Gamma_Inv.Rev)
 
-### Tuesday, 8 August - Höhna, Hülsenbeck, & Moore
+### Tuesday, 8 August - Höhna & Hülsenbeck
 
 * Partition Models and Model Selection
 * Model Fit
@@ -58,11 +58,11 @@ Practical: Models of Molecular Evolution
 
 ### Thursday, 10 August - Höhna & Goldberg
 
-* Estimating Diversification Rates Trough-Time
+* Estimating Diversification Rates Through-Time
 * Lineage-specific diversification rates
 * State-dependent diversification rates
+* Biogeography
 
 ### Friday, 11 August - Höhna & Boussau
 
-* Biogeography
 * Gene-tree/species-tree estimation
