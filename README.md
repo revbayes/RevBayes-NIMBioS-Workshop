@@ -82,7 +82,7 @@ To prepare for the workshop, please see detailed information: [https://revbayes.
 
 *Practical: Clock Models* 
 
-* Tutorial PDF: [RB_Dating_Tutorial.pdf](https://github.com/revbayes/revbayes_tutorial/raw/master/tutorial_TeX/RB_ClockModels_Tutorial/RB_ClockModels_Tutorial.pdf)
+* Tutorial PDF: [RB_ClockModels_Tutorial.pdf](https://github.com/revbayes/revbayes_tutorial/raw/master/tutorial_TeX/RB_ClockModels_Tutorial/RB_ClockModels_Tutorial.pdf)
 * [Data file](https://github.com/revbayes/revbayes_tutorial/raw/master/RB_ClockModels_Tutorial/data/bears_irbp.nex)
 * [Tree file](https://github.com/revbayes/revbayes_tutorial/raw/master/RB_ClockModels_Tutorial/data/bears_dosReis.tre)
 * [Rev scripts](https://github.com/revbayes/revbayes_tutorial/tree/master/RB_ClockModels_Tutorial/scripts)
