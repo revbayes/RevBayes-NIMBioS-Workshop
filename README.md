@@ -50,7 +50,13 @@ To prepare for the workshop, please see detailed information: [https://revbayes.
 * Model Fit
 * MCMC Diagnostics & Convergence
 
-*Practical: Partition Models and Model Selection*
+*Practical: Model Selection*
+
+* Tutorial PDF: [RB_BayesFactor_Tutorial.pdf](https://github.com/revbayes/revbayes_tutorial/raw/master/tutorial_TeX/RB_BayesFactor_Tutorial/RB_BayesFactor_Tutorial.pdf)
+* [Data file](http://rawgit.com/revbayes/revbayes_tutorial/master/RB_BayesFactor_Tutorial/data/primates_and_galeopterus_cytb.nex)
+* [Rev script](http://rawgit.com/revbayes/revbayes_tutorial/master/RB_BayesFactor_Tutorial/scripts/marginal_likelihood_JC.Rev)
+
+*Practical: Partition Models*
 
 * Tutorial PDF: [RB_Partition_Tutorial.pdf](https://github.com/revbayes/revbayes_tutorial/raw/master/tutorial_TeX/RB_Partition_Tutorial/RB_Partition_Tutorial.pdf)
 * [Data files](https://github.com/revbayes/revbayes_tutorial/tree/master/RB_Partition_Tutorial/data)
@@ -58,9 +64,9 @@ To prepare for the workshop, please see detailed information: [https://revbayes.
 
 *Practical: Model Fit*
 
-* Tutorial PDF: [RB_BayesFactor_Tutorial.pdf](https://github.com/revbayes/revbayes_tutorial/raw/master/tutorial_TeX/RB_BayesFactor_Tutorial/RB_BayesFactor_Tutorial.pdf)
-* [Data file](http://rawgit.com/revbayes/revbayes_tutorial/master/RB_BayesFactor_Tutorial/data/primates_and_galeopterus_cytb.nex)
-* [Rev script](http://rawgit.com/revbayes/revbayes_tutorial/master/RB_BayesFactor_Tutorial/scripts/marginal_likelihood_JC.Rev)
+* Tutorial PDF: [RB_PosteriorPrediction_Tutorial.pdf](https://github.com/revbayes/revbayes_tutorial/raw/master/tutorial_TeX/RB_PosteriorPrediction_Tutorial/RB_PosteriorPrediction_Tutorial.pdf)
+* [Data files](https://github.com/revbayes/revbayes_tutorial/tree/master/RB_PosteriorPrediction_Tutorial/data)
+* [Rev scripts](https://github.com/revbayes/revbayes_tutorial/tree/master/RB_PosteriorPrediction_Tutorial/scripts)
 
 *Practical: MCMC & Convergence*
 
