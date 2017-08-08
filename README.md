@@ -80,6 +80,19 @@ To prepare for the workshop, please see detailed information: [https://revbayes.
 * Node Calibration
 * Total Evidence Analysis
 
+*Practical: Clock Models* 
+
+* Tutorial PDF: [RB_Dating_Tutorial.pdf](https://github.com/revbayes/revbayes_tutorial/raw/master/tutorial_TeX/RB_Dating_Tutorial/RB_Dating_Tutorial.pdf)
+* [Data file](https://github.com/revbayes/revbayes_tutorial/raw/master/RB_Dating_Tutorial/data/bears_irbp.nex)
+* [Tree file](https://github.com/revbayes/revbayes_tutorial/raw/master/RB_Dating_Tutorial/data/bears_dosReis.tre)
+* [Rev scripts](https://github.com/revbayes/revbayes_tutorial/tree/master/RB_Dating_Tutorial/scripts)
+
+*Practical: Total Evidence Analysis under the Fossilized Birth-Death Process*
+
+* Tutorial PDF: [RB_TotalEvidenceDating_FBD_Tutorial.pdf](https://github.com/revbayes/revbayes_tutorial/raw/master/tutorial_TeX/RB_TotalEvidenceDating_FBD_Tutorial/RB_TotalEvidenceDating_FBD_Tutorial.pdf)
+* [Data files](https://github.com/revbayes/revbayes_tutorial/blob/master/RB_TotalEvidenceDating_FBD_Tutorial/data.zip) 
+* [Rev scripts](https://github.com/revbayes/revbayes_tutorial/tree/master/RB_TotalEvidenceDating_FBD_Tutorial/scripts)
+
 ### Thursday, 10 August - Höhna, Goldberg, & Freyman
 
 *Topics*
