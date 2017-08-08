@@ -71,6 +71,7 @@ To prepare for the workshop, please see detailed information: [https://revbayes.
 *Practical: MCMC & Convergence*
 
 * Tutorial PDF: [RB_MCMC_Tutorial.pdf](https://github.com/revbayes/revbayes_tutorial/raw/master/tutorial_TeX/RB_MCMC_Tutorial/RB_MCMC_Tutorial.pdf) 
+* [Rev scripts](https://github.com/revbayes/revbayes_tutorial/tree/master/RB_MCMC_Tutorial/scripts)
 
 ### Wednesday, 9 August - Höhna & Heath
 
