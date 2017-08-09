@@ -81,6 +81,9 @@ To prepare for the workshop, please see detailed information: [https://revbayes.
 * Node Calibration
 * Total Evidence Analysis
 
+[Theory slides](https://github.com/revbayes/RevBayes-NIMBioS-Workshop/blob/master/slides/Heath-divtime-lec-RBNIMBioS2017.pdf)
+
+
 *Practical: Clock Models* 
 
 * Tutorial PDF: [RB_ClockModels_Tutorial.pdf](https://github.com/revbayes/revbayes_tutorial/raw/master/tutorial_TeX/RB_ClockModels_Tutorial/RB_ClockModels_Tutorial.pdf)
