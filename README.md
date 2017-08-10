@@ -106,6 +106,12 @@ To prepare for the workshop, please see detailed information: [https://revbayes.
 * Character State-Dependent Diversification Rates
 * Biogeography
 
+*Practical: Basic diversification using constant-rate pure birth and birth-death models*
+
+* Tutorial PDF: [RB_DiversificationRate_Tutorial.pdf](https://github.com/revbayes/revbayes_tutorial/raw/master/tutorial_TeX/RB_DiversificationRate_Tutorial/RB_DiversificationRate_Tutorial.pdf)
+* [Data files](https://raw.githubusercontent.com/revbayes/revbayes_tutorial/master/RB_DiversificationRate_Tutorial/data/primates_springer.tre)
+* [Rev scripts](http://rawgit.com/revbayes/revbayes_tutorial/master/RB_DiversificationRate_Tutorial/scripts.zip)
+
 *Practical: Character State-Dependent Diversification*
 
 * Tutorial PDF: [RB_DiversificationRate_CharacterDependent_Tutorial.pdf](https://github.com/revbayes/revbayes_tutorial/raw/master/tutorial_TeX/RB_DiversificationRate_CharacterDependent_Tutorial/RB_DiversificationRate_CharacterDependent_Tutorial.pdf)
