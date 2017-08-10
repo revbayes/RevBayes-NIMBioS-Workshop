@@ -37,6 +37,7 @@ RevBayes performs statistical phylogenetic analysis. You should familiarize your
 
 The RevBayes workshops will also use additional software for analysis of output and summarization of the MCMC. Please download and install the following:
 
+* RevGadgets ([https://github.com/revbayes/RevGadgets](https://github.com/revbayes/RevGadgets))
 * Tracer ([http://tree.bio.ed.ac.uk/software/tracer/](http://tree.bio.ed.ac.uk/software/tracer/))
 * FigTree ([http://tree.bio.ed.ac.uk/software/figtree/](http://tree.bio.ed.ac.uk/software/figtree/))
 * IcyTree (a web-based tree viewer; [http://tgvaughan.github.io/icytree/](http://tgvaughan.github.io/icytree))
