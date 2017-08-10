@@ -109,19 +109,19 @@ To prepare for the workshop, please see detailed information: [https://revbayes.
 *Practical: Basic diversification using constant-rate birth-death models*
 
 * Tutorial PDF: [RB_DiversificationRate_Tutorial.pdf](https://github.com/revbayes/revbayes_tutorial/raw/master/tutorial_TeX/RB_DiversificationRate_Tutorial/RB_DiversificationRate_Tutorial.pdf)
-* [Data files](https://raw.githubusercontent.com/revbayes/revbayes_tutorial/master/RB_DiversificationRate_Tutorial/data/primates_springer.tre)
+* [Data files](https://raw.githubusercontent.com/revbayes/revbayes_tutorial/master/RB_DiversificationRate_Tutorial/data/primates_tree.nex)
 * [Rev scripts](http://rawgit.com/revbayes/revbayes_tutorial/master/RB_DiversificationRate_Tutorial/scripts.zip)
 
 *Practical: Diversification rates through time using episodic birth-death models*
 
 * Tutorial PDF: [RB_DiversificationRate_Episodic_Tutorial.pdf](https://github.com/revbayes/revbayes_tutorial/raw/master/tutorial_TeX/RB_DiversificationRate_Episodic_Tutorial/RB_DiversificationRate_Episodic_Tutorial.pdf)
-* [Data files](http://rawgit.com/revbayes/revbayes_tutorial/master/RB_DiversificationRate_Episodic_Tutorial/data/primates_Springer.tre)
+* [Data files](http://rawgit.com/revbayes/revbayes_tutorial/master/RB_DiversificationRate_Episodic_Tutorial/data/Primates_tree.nex)
 * [Rev scripts](http://rawgit.com/revbayes/revbayes_tutorial/master/RB_DiversificationRate_Episodic_Tutorial/scripts.zip)
 
 *Practical: Branch-specific diversification rate estimation*
 
 * Tutorial PDF: [RB_DiversificationRate_BranchSpecific_Tutorial.pdf](https://github.com/revbayes/revbayes_tutorial/raw/master/tutorial_TeX/RB_DiversificationRate_BranchSpecific_Tutorial/RB_DiversificationRate_BranchSpecific_Tutorial.pdf)
-* [Data files](http://rawgit.com/revbayes/revbayes_tutorial/master/RB_DiversificationRate_BranchSpecific_Tutorial/data/primates_Springer.tre)
+* [Data files](http://rawgit.com/revbayes/revbayes_tutorial/master/RB_DiversificationRate_BranchSpecific_Tutorial/data/primates_tree.nex)
 * [Rev scripts](http://rawgit.com/revbayes/revbayes_tutorial/master/RB_DiversificationRate_BranchSpecific_Tutorial/scripts.zip)
 
 *Practical: Character State-Dependent Diversification*
