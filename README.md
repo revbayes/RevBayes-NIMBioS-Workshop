@@ -22,14 +22,16 @@ To prepare for the workshop, please see detailed information: [https://revbayes.
 
 ## Workshop Topics
 
+Repository for slides: [https://github.com/revbayes/RevBayes-NIMBioS-Workshop/tree/master/slides](https://github.com/revbayes/RevBayes-NIMBioS-Workshop/tree/master/slides)
+
 ### Monday, 7 August - Höhna & Hülsenbeck
 
 *Topics*
 
 * Introduction/Overview
 * Probability, Bayesian Statistics, MCMC
-* Introduction to RevBayes
-* Models of Molecular Evolution
+* Likelihood based phylogenetics [[slides](https://github.com/revbayes/RevBayes-NIMBioS-Workshop/blob/master/slides/Huelsenbeck_Aug7_Likelihood_Phylo.pdf)]
+* Introduction to RevBayes [[slides](https://github.com/revbayes/RevBayes-NIMBioS-Workshop/blob/master/slides/Hoehna_Aug7_RevBayes_Intro.pdf)]
 
 *Practical: Introduction to RevBayes*
 
@@ -46,8 +48,8 @@ To prepare for the workshop, please see detailed information: [https://revbayes.
 
 *Topics*
 
-* Partition Models and Model Selection
-* Model Fit
+* Partition Models and Model Selection [[slides](https://github.com/revbayes/RevBayes-NIMBioS-Workshop/blob/master/slides/Hoehna_Aug8_Model_Selection.pdf)]
+* Model Fit [[slides](https://github.com/revbayes/RevBayes-NIMBioS-Workshop/blob/master/slides/Hoehna_Aug8_Model_Fit.pdf)]
 * MCMC Diagnostics & Convergence
 
 *Practical: Model Selection*
@@ -77,12 +79,10 @@ To prepare for the workshop, please see detailed information: [https://revbayes.
 
 *Topics*
 
-* Clock Models
-* Node Calibration
-* Total Evidence Analysis
-
-[Theory slides](https://github.com/revbayes/RevBayes-NIMBioS-Workshop/blob/master/slides/Heath-divtime-lec-RBNIMBioS2017.pdf)
-
+* Divergence-time estimation [[slides](https://github.com/revbayes/RevBayes-NIMBioS-Workshop/blob/master/slides/Heath_Aug9_Divergence_Time_Est.pdf)]
+    * Clock Models
+    * Node Calibration
+    * Total Evidence Analysis
 
 *Practical: Clock Models* 
 
