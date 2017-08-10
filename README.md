@@ -22,6 +22,8 @@ To prepare for the workshop, please see detailed information: [https://revbayes.
 
 ## Workshop Topics
 
+Repository for slides: [https://github.com/revbayes/RevBayes-NIMBioS-Workshop/tree/master/slides](https://github.com/revbayes/RevBayes-NIMBioS-Workshop/tree/master/slides)
+
 ### Monday, 7 August - Höhna & Hülsenbeck
 
 *Topics*
