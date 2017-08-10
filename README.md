@@ -111,6 +111,7 @@ To prepare for the workshop, please see detailed information: [https://revbayes.
 * Tutorial PDF: [RB_DiversificationRate_CharacterDependent_Tutorial.pdf](https://github.com/revbayes/revbayes_tutorial/raw/master/tutorial_TeX/RB_DiversificationRate_CharacterDependent_Tutorial/RB_DiversificationRate_CharacterDependent_Tutorial.pdf)
 * [Data files](http://rawgit.com/revbayes/revbayes_tutorial/master/RB_DiversificationRate_CharacterDependent_Tutorial/data.zip)
 * [Rev scripts](http://rawgit.com/revbayes/revbayes_tutorial/master/RB_DiversificationRate_CharacterDependent_Tutorial/scripts.zip)
+* [RevGadgets R package](https://github.com/revbayes/RevGadgets)
 
 *Practical: Biogeography*
 
