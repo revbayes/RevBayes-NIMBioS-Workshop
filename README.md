@@ -105,6 +105,7 @@ Repository for slides: [https://github.com/revbayes/RevBayes-NIMBioS-Workshop/tr
 * Lineage-Specific Diversification Rates
 * Character State-Dependent Diversification Rates
 * Biogeography
+* [[slides for second two topics](https://github.com/revbayes/RevBayes-NIMBioS-Workshop/blob/master/slides/bisse-biogeo.pdf)]
 
 *Practical: Basic diversification using constant-rate birth-death models*
 
@@ -124,7 +125,7 @@ Repository for slides: [https://github.com/revbayes/RevBayes-NIMBioS-Workshop/tr
 * [Data files](http://rawgit.com/revbayes/revbayes_tutorial/master/RB_DiversificationRate_BranchSpecific_Tutorial/data/primates_tree.nex)
 * [Rev scripts](http://rawgit.com/revbayes/revbayes_tutorial/master/RB_DiversificationRate_BranchSpecific_Tutorial/scripts.zip)
 
-*Practical: Character State-Dependent Diversification*
+*Practical: Character state-dependent diversification*
 
 * Tutorial PDF: [RB_DiversificationRate_CharacterDependent_Tutorial.pdf](https://github.com/revbayes/revbayes_tutorial/raw/master/tutorial_TeX/RB_DiversificationRate_CharacterDependent_Tutorial/RB_DiversificationRate_CharacterDependent_Tutorial.pdf)
 * [Data files](http://rawgit.com/revbayes/revbayes_tutorial/master/RB_DiversificationRate_CharacterDependent_Tutorial/data.zip)
