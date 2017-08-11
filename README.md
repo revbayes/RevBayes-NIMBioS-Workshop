@@ -105,7 +105,7 @@ Repository for slides: [https://github.com/revbayes/RevBayes-NIMBioS-Workshop/tr
 * Lineage-Specific Diversification Rates
 * Character State-Dependent Diversification Rates
 * Biogeography
-* [[slides for second two topics](https://github.com/revbayes/RevBayes-NIMBioS-Workshop/blob/master/slides/bisse-biogeo.pdf)]
+* [[slides for second two topics](https://github.com/revbayes/RevBayes-NIMBioS-Workshop/blob/master/slides/Goldberg_Aug10_SSE_Biogeo.pdf)]
 
 *Practical: Basic diversification using constant-rate birth-death models*
 
