@@ -146,7 +146,7 @@ Repository for slides: [https://github.com/revbayes/RevBayes-NIMBioS-Workshop/tr
 * The multispecies coalescent model
 * [[slides](https://github.com/revbayes/RevBayes-NIMBioS-Workshop/blob/master/slides/Boussau_Aug11_Multispecies_Coalescent.pdf)]
 
-* Tutorial PDF: [RB_MultispeciesCoalescent_Tutorial.pdf](https://github.com/revbayes/revbayes_tutorial/raw/master/tutorial_TeX/  RB_MultispeciesCoalescent_Tutorial/RB_MultispeciesCoalescent_Tutorial.pdf)
+* Tutorial PDF: [RB_MultispeciesCoalescent_Tutorial.pdf](https://github.com/revbayes/revbayes_tutorial/raw/master/tutorial_TeX/RB_MultispeciesCoalescent_Tutorial/RB_MultispeciesCoalescent_Tutorial.pdf)
 * [Data files](http://rawgit.com/revbayes/revbayes_tutorial/master/RB_MultispeciesCoalescent_Tutorial/data.zip)
 * [Rev scripts](http://rawgit.com/revbayes/revbayes_tutorial/master/RB_MultispeciesCoalescent_Tutorial/scripts.zip)
 * [Starting gene trees](http://rawgit.com/revbayes/revbayes_tutorial/master/RB_MultispeciesCoalescent_Tutorial/output_GeneTrees.zip)
