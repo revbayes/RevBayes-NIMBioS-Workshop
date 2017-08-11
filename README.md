@@ -72,7 +72,7 @@ Repository for slides: [https://github.com/revbayes/RevBayes-NIMBioS-Workshop/tr
 
 *Practical: MCMC & Convergence*
 
-* Tutorial PDF: [RB_MCMC_Tutorial.pdf](https://github.com/revbayes/revbayes_tutorial/raw/master/tutorial_TeX/RB_MCMC_Tutorial/RB_MCMC_Tutorial.pdf) 
+* Tutorial PDF: [RB_MCMC_Tutorial.pdf](https://github.com/revbayes/revbayes_tutorial/raw/master/tutorial_TeX/RB_MCMC_Tutorial/RB_MCMC_Tutorial.pdf)
 * [Rev scripts](https://github.com/revbayes/revbayes_tutorial/tree/master/RB_MCMC_Tutorial/scripts)
 
 ### Wednesday, 9 August - Höhna & Heath
@@ -84,7 +84,7 @@ Repository for slides: [https://github.com/revbayes/RevBayes-NIMBioS-Workshop/tr
     * Node Calibration
     * Total Evidence Analysis
 
-*Practical: Clock Models* 
+*Practical: Clock Models*
 
 * Tutorial PDF: [RB_ClockModels_Tutorial.pdf](https://github.com/revbayes/revbayes_tutorial/raw/master/tutorial_TeX/RB_ClockModels_Tutorial/RB_ClockModels_Tutorial.pdf)
 * [Data file](https://github.com/revbayes/revbayes_tutorial/raw/master/RB_ClockModels_Tutorial/data/bears_irbp.nex)
@@ -94,7 +94,7 @@ Repository for slides: [https://github.com/revbayes/RevBayes-NIMBioS-Workshop/tr
 *Practical: Total Evidence Analysis under the Fossilized Birth-Death Process*
 
 * Tutorial PDF: [RB_TotalEvidenceDating_FBD_Tutorial.pdf](https://github.com/revbayes/revbayes_tutorial/raw/master/tutorial_TeX/RB_TotalEvidenceDating_FBD_Tutorial/RB_TotalEvidenceDating_FBD_Tutorial.pdf)
-* [Data files](https://github.com/revbayes/revbayes_tutorial/blob/master/RB_TotalEvidenceDating_FBD_Tutorial/data.zip) 
+* [Data files](https://github.com/revbayes/revbayes_tutorial/blob/master/RB_TotalEvidenceDating_FBD_Tutorial/data.zip)
 * [Rev scripts](https://github.com/revbayes/revbayes_tutorial/tree/master/RB_TotalEvidenceDating_FBD_Tutorial/scripts)
 
 ### Thursday, 10 August - Höhna, Goldberg, & Freyman
@@ -141,4 +141,12 @@ Repository for slides: [https://github.com/revbayes/RevBayes-NIMBioS-Workshop/tr
 
 ### Friday, 11 August - Höhna & Boussau
 
+*Topics*
 * Gene-tree/species-tree estimation
+* The multispecies coalescent model
+* [[slides](https://github.com/revbayes/RevBayes-NIMBioS-Workshop/blob/master/slides/Boussau_Aug11_Multispecies_Coalescent.pdf)]
+
+* Tutorial PDF: [RB_MultispeciesCoalescent_Tutorial.pdf](https://github.com/revbayes/revbayes_tutorial/raw/master/tutorial_TeX/  RB_MultispeciesCoalescent_Tutorial/RB_MultispeciesCoalescent_Tutorial.pdf)
+* [Data files](http://rawgit.com/revbayes/revbayes_tutorial/master/RB_MultispeciesCoalescent_Tutorial/data.zip)
+* [Rev scripts](http://rawgit.com/revbayes/revbayes_tutorial/master/RB_MultispeciesCoalescent_Tutorial/scripts.zip)
+* [Starting gene trees](http://rawgit.com/revbayes/revbayes_tutorial/master/RB_MultispeciesCoalescent_Tutorial/output_GeneTrees.zip)
