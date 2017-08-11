@@ -150,3 +150,5 @@ Repository for slides: [https://github.com/revbayes/RevBayes-NIMBioS-Workshop/tr
 * [Data files](http://rawgit.com/revbayes/revbayes_tutorial/master/RB_MultispeciesCoalescent_Tutorial/data.zip)
 * [Rev scripts](http://rawgit.com/revbayes/revbayes_tutorial/master/RB_MultispeciesCoalescent_Tutorial/scripts.zip)
 * [Starting gene trees](http://rawgit.com/revbayes/revbayes_tutorial/master/RB_MultispeciesCoalescent_Tutorial/output_GeneTrees.zip)
+* [Example outputs of the MCMC, basic MSC](https://www.dropbox.com/s/wtn5u5vx9kobqdn/output_MSC.zip?dl=0)
+* [Example outputs of the MCMC, MSC with conjugate prior](https://www.dropbox.com/s/1j55qkwgxk1nt7n/output_MSC_ConjugatePrior.zip?dl=0)
